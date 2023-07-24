@@ -3,6 +3,11 @@ body{
     background: violet;
 }
 
+.title{
+    justify-content: center;
+    display: flex;
+}
+
 .main{
     justify-content: space-around;
     align-items: center;
