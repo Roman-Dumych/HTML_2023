@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background: violet;
+}
+
+.main{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+
+.box_1{
+    width: 440px;
+    height: 530px;
+    background: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.box_2{
+    width: 440px;
+    height: 530px;
+    background: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.box_3{
+    width: 440px;
+    height: 530px;
+    background: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.button_1{
+    justify-content: center;
+    align-items: end;
+    display: flex;
+}
