@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+
+.main{
+    width:100%;
+    height:500px;
+    background: crimson;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Rubik_Pixels{
+    width: 200px;
+    height: 200px;
+    background: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Rubik Pixels', cursive;
+}
+
+.Sedgwick_Ave_Display{
+    width: 200px;
+    height: 200px;
+    background: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.Dancing_Script{
+    width: 200px;
+    height: 200px;
+    background: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.Fjalla_One{
+    width: 200px;
+    height: 200px;
+    background: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.Indie_Flower{
+    width: 200px;
+    height: 200px;
+    background: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Indie Flower', cursive;
+}
