@@ -9,41 +9,24 @@ body{
     display: flex;
 }
 
-.box_1{
+.box{
     width: 440px;
     height: 530px;
+    padding: 30px;
     background: crimson;
+    border: 3px solid black;
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
     border-radius: 10px;
     box-sizing: border-box;
 }
 
-.box_2{
-    width: 440px;
-    height: 530px;
-    background: crimson;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
+.button{
+    border: 3px solid black;
     border-radius: 10px;
     box-sizing: border-box;
-}
-
-.box_3{
-    width: 440px;
-    height: 530px;
-    background: crimson;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    border-radius: 10px;
-    box-sizing: border-box;
-}
-
-.button_1{
-    justify-content: center;
-    align-items: end;
-    display: flex;
+    padding: 10px;
 }
