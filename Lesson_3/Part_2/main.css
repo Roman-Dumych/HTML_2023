@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+
+nav{
+    width: 100vw;
+    height: 10vh;
+    background: darkmagenta;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+section{
+    display: flex;
+}
+
+.section_1, .section_2, .section_3{
+    width: 33.33vw;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.section_1{
+    background: crimson;
+}
+
+.section_2{
+    background: violet;
+}
+
+.section_3{
+    background: fuchsia;
+}
+
+
+footer{
+    width: 100vw;
+    height: 10vh;
+    background: darkorchid;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
