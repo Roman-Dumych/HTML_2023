@@ -1,0 +1,37 @@
+body, #block_1 > h1, #block_2 > h1, #block_3 > h1 {
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#block_1 {
+    width: 100vw;
+    height: 100vh;
+    background: coral;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+
+#block_2 {
+    width: 100vw;
+    height: 100vh;
+    background: lightcoral;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+
+#block_3 {
+    width: 100vw;
+    height: 100vh;
+    background: darkorange;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
