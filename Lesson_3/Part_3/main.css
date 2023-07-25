@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+
+header{
+    width: 100vw;
+    height: 20vh;
+    background: coral;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.head > a{
+    margin: 70px;
+    text-decoration: none;
+}
+
+
+.main > a{
+    text-decoration: none;
+}
+
+.button{
+    margin-left: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.button_1, .button_2{
+    border: 2px solid;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.section{
+    display: flex;
+}
+
