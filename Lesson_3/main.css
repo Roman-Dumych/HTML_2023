@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 20vh;
+    background: crimson;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+main {
+    width: 100vw;
+    height: 35vh;
+    background: violet;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+section {
+    display: flex;
+}
+
+.section{
+    width: 60vw;
+    height: 35vh;
+    background: blueviolet;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.article{
+    width: 40vw;
+    height: 35vh;
+    background: coral;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+footer{
+    width: 100vw;
+    height: 10vh;
+    background: brown;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
