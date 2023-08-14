@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+.header{
+    width: 100vw;
+    height: 20vh;
+    background: indianred;
+}
+
+.content_1{
+    width: 70vw;
+    height: 20vh;
+    background: darkorange;
+}
+
+.content_2{
+    width: 70vw;
+    height: 20vh;
+    background: coral;
+}
+
+.content_3{
+    width: 70vw;
+    height: 20vh;
+    background: darksalmon;
+}
+
+.spam_1{
+    width: 30vw;
+    height: 30vh;
+    background: darkgoldenrod;
+}
+
+.spam_2{
+    width: 30vw;
+    height: 30vh;
+    background: lightsalmon;
+}
+
+.flex{
+    display: flex;
+}
+
+.header, .content_1, .content_2, .content_3, .spam_1, .spam_2, .footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    width: 100vw;
+    height: 20vh;
+    background: burlywood;
+}
