@@ -1,0 +1,23 @@
+.box_1 > ul > li:nth-child(even) {
+    background: hotpink;
+}
+
+.box_2 > ul > li:nth-child(odd) {
+    font-size: 22px;
+}
+
+.box_3 > ul > li:nth-child(2n+4):after{
+    content: '!';
+}
+
+.box_4 > ul > li:last-child{
+    background: violet;
+}
+
+.box_5 > ul > li:first-letter{
+    font-size: 30px;
+    color: red;
+}
+
+
+
