@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+}
+
+.header {
+    width: 100vw;
+    height: 20vh;
+    background: coral;
+}
+
+.news_1 {
+    width: 20vw;
+    height: 60vh;
+    background: indianred;
+}
+
+.header_1 {
+    width: 60vw;
+    height: 10vh;
+    background: burlywood;
+}
+
+.box_1 {
+    width: 10vw;
+    height: 40vh;
+    background: bisque;
+}
+
+.box_2 {
+    width: 40vw;
+    height: 40vh;
+    background: darkkhaki;
+}
+
+.box_3 {
+    width: 10vw;
+    height: 40vh;
+    background: lightsalmon;
+}
+
+.box {
+    display: flex;
+}
+
+.footer_1 {
+    width: 60vw;
+    height: 10vh;
+    background: darkseagreen;
+}
+
+.news_2 {
+    width: 20vw;
+    height: 60vh;
+    background: lavender;
+}
+
+.flex {
+    display: flex;
+}
+
+.footer {
+    width: 100vw;
+    height: 20vh;
+    background: lightpink;
+}
+
+.header, .news_1, .header_1, .box_1, .box_2, .box_3, .footer_1, .news_2, .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
